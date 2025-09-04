@@ -11,7 +11,7 @@
 
 - 📫 Reach me at: rashedulislam.shajol@gmail.com <br>
 
-- ⚡ Fun fact: I love mixing code, coffee, and creativity ☕💡<br>
+- ⚡ Fun fact: I love mixing code, coffee, and creativity ☕💡<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
