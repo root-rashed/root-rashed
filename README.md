@@ -18,8 +18,9 @@
   <a href="https://fb.com/root.rashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="root.rashed" height="30" width="40" /></a>
 <a href="https://twitter.com/web3_particle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="web3_particle" height="30" width="40" /></a>
 <a href="https://tryhackme.com/p/SEUxWhonix" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/TryHackMe-Profile?logo=tryhackme&logoColor=white&labelColor=000000&color=E31C3D" alt="TryHackMe Profile" height="28" />
+  <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/SEUxWhonix.png" alt="TryHackMe: SEUxWhonix" height="30" />
 </a>
+
 
 </p>
 
