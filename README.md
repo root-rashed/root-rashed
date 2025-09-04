@@ -17,7 +17,7 @@
 <p align="left">
   <a href="https://fb.com/root.rashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="root.rashed" height="30" width="40" /></a>
 <a href="https://twitter.com/web3_particle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="web3_particle" height="30" width="40" /></a>
-<a href="https://www.tryhackme.com/seuxwhonix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="seuxwhonix" height="30" width="40" /></a>
+<a href="https://www.tryhackme.com/SeuxWhonix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="SeuxWhonix" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
