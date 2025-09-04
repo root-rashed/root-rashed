@@ -9,7 +9,7 @@
 
 - 🤝 I’m Open to collaborate on **AI/ML, Cybersecurity & Open-Source Projects**<br>
 
-- 📫 Reach me at: rashedulislam.shajol@gmail.com <br>
+- 📫 Reach me at:  rashedulislam.shajol@gmail.com<br>
 
 - ⚡ Fun fact: I love **mixing code, coffee, and creativity** ☕💡<br><br>
 
