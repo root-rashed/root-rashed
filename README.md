@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=root-rashed&label=Profile%20views&color=0e75b6&style=flat" alt="root-rashed" /> </p>
 
-- 🔭 I’m currently working on **AI-driven Cybersecurity Projects**<br>
+- 🔭 I’m currently working on **AI-driven Cybersecurity Projects.**<br>
 
-- 👯 I’m Learning more about **Deep Learning, Network Security & Cloud Computing**<br>
+- 👯 I’m Learning more about **Deep Learning, Network Security & Cloud Computing.**<br>
 
-- 🤝 I’m Open to collaborate on **AI/ML, Cybersecurity & Open-Source Projects**<br>
+- 🤝 I’m Open to collaborate on **AI/ML, Cybersecurity & Open-Source Projects.**<br>
 
 - 📫 Reach me at:  rashedulislam.shajol@gmail.com<br>
 
-- ⚡ Fun fact: I love **mixing code, coffee, and creativity** ☕💡<br><br>
+- ⚡ Fun fact: I love **mixing code, coffee, and creativity.** ☕💡<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
