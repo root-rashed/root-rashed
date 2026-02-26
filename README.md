@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Rashedul islam</h1>
-<h3 align="center">💻 Software Engineer | 📚AI & ML Researcher | 🚀 CyberSecurity Analyst |</h3>
+<h3 align="center">💻 Software Engineer | 📚AI & ML Researcher | Springboot |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=root-rashed&label=Profile%20views&color=0e75b6&style=flat" alt="root-rashed" /> </p>
 
-- 🔭 I’m currently working on **AI-driven Cybersecurity Projects.**<br>
+- 🔭 I’m currently working on **AI-driven Microservices and CyberSecurity Projects**<br>
 
 - 👯 I’m Learning more about **Deep Learning, Network Security & Cloud Computing.**<br>
 
