@@ -138,7 +138,7 @@ fun_fact   : I love mixing code, coffee, and creativity ☕💡
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=root-rashed&theme=tokyonight&hide_border=true" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=root-rashed&theme=tokyonight&hide_border=true" width="1050" height="400"/>
 
 </div>
 
