@@ -1,15 +1,9 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d4ff&height=200&section=header&text=Rashedul%20Islam&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Researcher%20%7C%20Cybersecurity%20Engineer&descAlignY=58&descSize=16&descColor=a0cfee" />
-
-<br/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN+%2B+Spring+Boot);AI+%26+ML+Engineer;Cybersecurity+Researcher;Daily+Competitive+Programmer;Building+Secure+%26+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi,+I+am+Rashedul+Islam;Full+Stack+Developer+(React+%2B+Spring+Boot);AI+%26+ML+Researcher;Cybersecurity+Researcher;Daily+Competitive+Programmer;Building+Secure+%26+Intelligent+Solutions" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
+<br/>
 <img src="https://komarev.com/ghpvc/?username=root-rashed&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/root-rashed?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
@@ -156,4 +150,6 @@ fun_fact   : I love mixing code, coffee, and creativity ☕💡
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e75b6,100:0d1117&height=100&section=footer" />
+<p align="center">
+  <i>"The only way to get better at problem solving is to solve more problems."</i>
+</p>
