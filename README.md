@@ -13,12 +13,12 @@
 ---
 
 ## 👨‍💻 About Me
-
 ```yaml
 name       : Rashedul Islam
 location   : Dhaka, Bangladesh
-focus      : AI-driven Microservices & Cybersecurity Projects
-learning   : Deep Learning · Network Security · Cloud Computing
+roles      : Software Engineer · Researcher ·  AI & ML Developer · Cybersecurity Analyst
+focus      : Building Secure, Scalable & Intelligent Real-World Solutions
+learning   : Backend framworks · Deep Learning · Network Security · Cloud Computing
 open_to    : AI/ML · Cybersecurity · Open-Source Collaborations
 contact    : rashedulislam.shajol@gmail.com
 fun_fact   : I love mixing code, coffee, and creativity ☕💡
