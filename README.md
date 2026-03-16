@@ -18,7 +18,7 @@ name       : Rashedul Islam
 location   : Dhaka, Bangladesh
 roles      : Software Engineer · Researcher ·  AI & ML Developer · Cybersecurity Analyst
 focus      : Building Secure, Scalable & Intelligent Real-World Solutions
-learning   : Backend Framworks · Deep Learning · Network Security · Cloud Computing
+learning   : Backend Frameworks · Deep Learning · Network Security · Cloud Computing
 open_to    : AI/ML · Cybersecurity · Open-Source Collaborations
 contact    : rashedulislam.shajol@gmail.com
 fun_fact   : I love mixing code, coffee, and creativity ☕💡
