@@ -33,6 +33,7 @@ fun_fact   : I love mixing code, coffee, and creativity ☕💡
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashedulislam.shajol@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/root.rashed)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/root-rashed)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([https://www.kaggle.com/root-rashed](https://www.kaggle.com/rashedulislam011))
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-E31C3D?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/whonix007)
 
 </div>
