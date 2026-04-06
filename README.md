@@ -130,7 +130,7 @@ fun_fact   : I love mixing code, coffee, and creativity ☕💡
 |:-----------|:--------------|:-------------|:--:|
 | 🌾 [**AgriLink**](https://github.com/root-rashed/AgriLink-Agricultural-Marketplace-System) | Full-stack agricultural marketplace connecting farmers, buyers & suppliers | `Java` `Spring Boot` `MySQL` | [![Stars](https://img.shields.io/github/stars/root-rashed/AgriLink-Agricultural-Marketplace-System?style=flat&color=gold)](https://github.com/root-rashed/AgriLink-Agricultural-Marketplace-System) |
 | 🌤️ [**Real-time Weather App**](https://github.com/root-rashed/Real-time-Weather-App) | Live weather data app with an intuitive interface using public APIs | `Python` `API` | [![Stars](https://img.shields.io/github/stars/root-rashed/Real-time-Weather-App?style=flat&color=gold)](https://github.com/root-rashed/Real-time-Weather-App) |
-| 🧠 [**Problem Solving**](https://github.com/root-rashed/Problem-Solving) | Daily competitive programming — Codeforces, LeetCode & more | `C++` `DSA` `Algorithms` | [![Stars](https://img.shields.io/github/stars/root-rashed/Problem-Solving?style=flat&color=gold)](https://github.com/root-rashed/Problem-Solving) |
+| 🧠 [**Data Structures & Algorithms — Problem Solving**](https://github.com/root-rashed/problem-solving-with-c-and-cpp) | Daily competitive programming — Codeforces, LeetCode & more | `C++` `DSA` `Algorithms` | [![Stars](https://img.shields.io/github/stars/root-rashed/problem-solving-with-c-and-cpp?style=flat&color=gold)](https://github.com/root-rashed/problem-solving-with-c-and-cpp) |
 
 </div>
 
