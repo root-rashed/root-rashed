@@ -41,11 +41,9 @@ fun_fact   : I love mixing code, coffee, and creativity ☕💡
 ---
 
 ## 🛠️ Languages & Tools
-
-### 👨‍💻 Languages
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,dart,flutter,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,dart,flutter,html,css,js,php" />
 </p>
 
 ### ☕ Spring Boot & Java Ecosystem
@@ -55,17 +53,17 @@ fun_fact   : I love mixing code, coffee, and creativity ☕💡
 
 ### 🌐 MERN Stack & Web Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,angular,django,bootstrap,tailwind,dotnet,cypress" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,angular,django,fastapi,bootstrap,tailwind,dotnet,cypress" />
 </p>
 
 ### 🤖 AI / ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,latex" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -75,12 +73,17 @@ fun_fact   : I love mixing code, coffee, and creativity ☕💡
 
 ### 📱 Mobile & Hardware
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 ### 🎨 Design & Creative
 <p align="left">
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator,blender" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,github,gitlab,figma,sublime,netlify" />
 </p>
 
 ---
