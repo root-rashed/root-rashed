@@ -106,21 +106,15 @@ fun_fact   : I love mixing code, coffee, and creativity ☕💡
  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-rashed&&layout=compact&theme=tokyonight&langs_count=8&card_width=400" />
 
 ---
-
 ## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=root-rashed&theme=tokyonight&hide_border=true" width="1050" height="400"/>
-
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=root-rashed&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="1050"; height: auto;"  />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=root-rashed&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=root-rashed&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"style="max-width: 100%; height: auto;"/>
 </div>
 
----
 
 <p align="center">
   <i>"The only way to get better at problem solving is to solve more problems."</i>
