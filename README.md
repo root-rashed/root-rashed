@@ -103,7 +103,7 @@ fun_fact   : I love mixing code, coffee, and creativity ☕💡
 
 ---
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-rashed&layout=compact&theme=tokyonight&langs_count=8&card_width=400" />
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=root-rashed&layout=compact&theme=tokyonight&card_width=400)" />
 
 ---
 ## 📊 GitHub Stats
