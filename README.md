@@ -43,7 +43,7 @@ fun_fact   : I love mixing code, coffee, and creativity ☕💡
 ## 🛠️ Languages & Tools
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,dart,flutter,html,css,js,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,php" />
 </p>
 
 ### ☕ Spring Boot & Java Ecosystem
@@ -53,7 +53,7 @@ fun_fact   : I love mixing code, coffee, and creativity ☕💡
 
 ### 🌐 MERN Stack & Web Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nodejs,express,angular,django,fastapi,bootstrap,tailwind,dotnet,cypress" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,angular,django,fastapi,bootstrap,tailwind,fastapi" />
 </p>
 
 ### 🤖 AI / ML
@@ -83,7 +83,7 @@ fun_fact   : I love mixing code, coffee, and creativity ☕💡
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,github,gitlab,figma,sublime,netlify" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,figma,sublime,netlify" />
 </p>
 
 ---
