@@ -108,7 +108,7 @@ fun_fact   : I love mixing code, coffee, and creativity ☕💡
 ---
 ## 📊 GitHub Stats
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=root-rashed&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="1050"; height: auto;"  />
+  <img src="https://streak-stats.demolab.com/?user=root-rashed&theme=radical&hide_border=true)](https://git.io/streak-stats)" width="1050"; height: auto;"  />
 </div>
 
 <div align="center">
