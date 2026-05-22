@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi,+I+am+Rashedul+Islam;Full+Stack+Developer+(React+%2B+Spring+Boot);FastApi+Developer;AI+%26+ML+Researcher;Penetration+Tester;Competitive+Programmer;Building+Secure+%26+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi,+I+am+Rashedul+Islam;Full+Stack+Developer+(Spring+Boot);FastApi+Developer;AI+%26+ML+Researcher;Penetration+Tester;Competitive+Programmer;Building+Secure+%26+Intelligent+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 ```yaml
 name       : Rashedul Islam
 location   : Dhaka, Bangladesh
-roles      : Software Engineer · Researcher ·  AI & ML Developer · Cybersecurity Analyst
+roles      : Software Engineer · AI & ML Researcher · Cybersecurity Analyst
 focus      : Building Secure, Scalable & Intelligent Real-World Solutions
 learning   : Backend Frameworks · Deep Learning · Network Security · Cloud Computing
 open_to    : Remote job · AI/ML · Cybersecurity · Open-Source Collaborations
